@@ -25,8 +25,8 @@ const tools = [
     {
     label: "Music Generation",
     icon: Music,
-    color: "text-emeral",
-    bgColor: "bg-emeral-500/10",
+    color: "text-emerald-500",
+    bgColor: "bg-emerald-500/10",
     href: "/music"
   },
     {
